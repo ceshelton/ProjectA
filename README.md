@@ -1,3 +1,3 @@
 # ProjectA
 
-RNA-Seq Processing Code
+RNA-Seq Processing
